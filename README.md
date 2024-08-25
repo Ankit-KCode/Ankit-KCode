@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFMOtCF8ctc7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696189347151?e=1730332800&v=beta&t=gVK8ZxcesQxCT35D54FFOUc4T5CDs8bBaEl-8fsqeLU)](https://www.linkedin.com/in/ankitkumar6060/)
+[![MasterHead](https://yt3.googleusercontent.com/uZfI4OxGrtNGf3jKILVSIUoK7mLbjSKAdi7dKDUa5Kfn4tkSfP8UShmNWIybC-qY6p9JPZjBjg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.linkedin.com/in/ankitkumar6060/)
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate AIML Learner & CSE Student.</h3>
