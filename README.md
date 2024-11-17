@@ -1,4 +1,4 @@
-[![MasterHead](https://yt3.googleusercontent.com/uZfI4OxGrtNGf3jKILVSIUoK7mLbjSKAdi7dKDUa5Kfn4tkSfP8UShmNWIybC-qY6p9JPZjBjg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.linkedin.com/in/ankitkumar6060/)
+[![MasterHead](https://yt3.googleusercontent.com/7meBleQX8YaR9yUEFGfstnLyw8m7U0In3sEJlmnOQR8guMH-59WAOOB-TV0pkEJiYAyJytUB=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate AIML Learner & CSE Student.</h3>
