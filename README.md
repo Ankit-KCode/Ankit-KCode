@@ -1,6 +1,10 @@
 ![MasterHead](https://yt3.googleusercontent.com/7meBleQX8YaR9yUEFGfstnLyw8m7U0In3sEJlmnOQR8guMH-59WAOOB-TV0pkEJiYAyJytUB=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-<h1 align="center">Hi 👋, I'm Ankit</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Ankit.;B-Tech+CSE(AIML)+at+GJU+University.;I'm+passionate+about+Machine+Learning+and+AI.;;&width=800&height=80"></a>
+</p>
+
+<!-- <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate AIML Learner & CSE Student.</h3>
 <!-- <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"> -->
 
