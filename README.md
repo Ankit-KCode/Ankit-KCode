@@ -60,8 +60,10 @@
 </tr>
 </table>
 
+![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ankit-kcode&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kcode&layout=compact&langs_count=10&theme=dark)](https://github.com/ankit-kcode)
+
 ## GitHub Activity
 
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ankit-kcode&theme=dark)
+
 ![Your GitHub Contribution Activity](https://github-readme-stats.vercel.app/api?username=ankit-kcode&theme=dark&show_icons=true)
