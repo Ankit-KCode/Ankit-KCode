@@ -10,19 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-kcode&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kcode" /> </p>
 
-- 🔭 I’m currently working on **AI ML Projects**
-
-- 🌱 I’m currently learning **Machine Leaning, DSA and Development**
+- 🔭 Currently working on **Web Dev & AI ML Projects**
 
 - 👨‍💻 Visit My Portfolio Website [https://ankit-kcode.github.io/Pixel.lens____/](https://ankit-kcode.github.io/Pixel.lens____/)
 
-- 📝 I regularly posts & updates on [https://www.linkedin.com/in/ankitkumar6060](https://www.linkedin.com/in/ankitkumar6060)
+- 📝 Regularly posts & updates on [https://www.linkedin.com/in/ankitkumar6060](https://www.linkedin.com/in/ankitkumar6060)
 
-- 💬 Ask me about **Data Analytics, Machine Learning and Data Science**
+- 📫 Contact : **ankitkumar936060@gmail.com**
 
-- 📫 How to reach me **ankitkumar936060@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ankitkumar6060](https://www.linkedin.com/in/ankitkumar6060)
+- 📄 My experiences [https://www.linkedin.com/in/ankitkumar6060](https://www.linkedin.com/in/ankitkumar6060)
 
 - ⚡ Pursuing **B.Tech in Computer Science (AIML)**
 
